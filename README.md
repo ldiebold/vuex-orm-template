@@ -1,4 +1,4 @@
-# vuex
+# Vuex-ORM Template
 
 ## Getting Started
 Start by cloning this repository
@@ -14,15 +14,13 @@ yarn install
 ```
 
 ### Compiles and hot-reloads for development
-Start the serve, and you're good to go!
+Start the server, and you're good to go!
 ```
 yarn run serve
 ```
 
 ### Compiles and minifies for production
+Compiling assets is easy...
 ```
 yarn run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

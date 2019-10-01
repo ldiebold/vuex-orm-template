@@ -7,10 +7,15 @@ git clone git@github.com:ldiebold/vuex-orm-template.git
 ```
 
 ## Project setup
-cd into the project and install required packages
+cd into the project
 ```
 cd vuex-orm-template
-yarn install
+```
+*Note: At this point, you may want to open the project in your editor*
+
+Install required packages
+```
+yarn
 ```
 
 ### Compiles and hot-reloads for development
